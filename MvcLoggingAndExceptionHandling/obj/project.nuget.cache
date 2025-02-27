@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "yjis5mghDVk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\MvcLoggingAndExceptionHandling\\MvcLoggingAndExceptionHandling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ruchila\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ruchila\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.0\\microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ruchila\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ruchila\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ruchila\\.nuget\\packages\\microsoft.extensions.dependencymodel\\7.0.0\\microsoft.extensions.dependencymodel.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ruchila\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.8\\microsoft.extensions.fileproviders.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\Ruchila\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\3.1.8\\microsoft.extensions.hosting.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\Ruchila\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ruchila\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ruchila\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ruchila\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\7.0.0\\microsoft.extensions.options.configurationextensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ruchila\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ruchila\\.nuget\\packages\\netlah.extensions.logging.serilog\\0.2.5\\netlah.extensions.logging.serilog.0.2.5.nupkg.sha512",
+    "C:\\Users\\Ruchila\\.nuget\\packages\\netlah.extensions.logging.serilog.aspnetcore\\0.2.5\\netlah.extensions.logging.serilog.aspnetcore.0.2.5.nupkg.sha512",
+    "C:\\Users\\Ruchila\\.nuget\\packages\\serilog\\4.0.0\\serilog.4.0.0.nupkg.sha512",
+    "C:\\Users\\Ruchila\\.nuget\\packages\\serilog.aspnetcore\\6.0.0\\serilog.aspnetcore.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ruchila\\.nuget\\packages\\serilog.extensions.hosting\\5.0.0\\serilog.extensions.hosting.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ruchila\\.nuget\\packages\\serilog.extensions.logging\\3.1.0\\serilog.extensions.logging.3.1.0.nupkg.sha512",
+    "C:\\Users\\Ruchila\\.nuget\\packages\\serilog.formatting.compact\\1.1.0\\serilog.formatting.compact.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ruchila\\.nuget\\packages\\serilog.settings.configuration\\3.3.0\\serilog.settings.configuration.3.3.0.nupkg.sha512",
+    "C:\\Users\\Ruchila\\.nuget\\packages\\serilog.sinks.console\\4.0.1\\serilog.sinks.console.4.0.1.nupkg.sha512",
+    "C:\\Users\\Ruchila\\.nuget\\packages\\serilog.sinks.debug\\2.0.0\\serilog.sinks.debug.2.0.0.nupkg.sha512",
+    "C:\\Users\\Ruchila\\.nuget\\packages\\serilog.sinks.file\\6.0.0\\serilog.sinks.file.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ruchila\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ruchila\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: NetLah.Extensions.Logging.Serilog 0.2.5 requires Serilog (>= 2.10.0 && < 3.0.0) but version Serilog 4.0.0 was resolved.",
+      "libraryId": "Serilog",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

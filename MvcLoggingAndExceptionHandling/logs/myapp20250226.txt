@@ -1,0 +1,76 @@
+2025-02-26 23:53:45.305 +05:30 [INF] User profile is available. Using 'C:\Users\Ruchila\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-02-26 23:53:45.841 +05:30 [INF] Now listening on: https://localhost:7294
+2025-02-26 23:53:45.849 +05:30 [INF] Now listening on: http://localhost:5173
+2025-02-26 23:53:45.897 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-26 23:53:45.900 +05:30 [INF] Hosting environment: Development
+2025-02-26 23:53:45.901 +05:30 [INF] Content root path: C:\Users\Ruchila\source\repos\WebAPI\MvcLoggingAndExceptionHandling
+2025-02-26 23:53:48.638 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7294/ - null null
+2025-02-26 23:53:49.064 +05:30 [INF] Executing endpoint 'MvcLoggingAndExceptionHandling.Controllers.HomeController.Index (MvcLoggingAndExceptionHandling)'
+2025-02-26 23:53:49.151 +05:30 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller MvcLoggingAndExceptionHandling.Controllers.HomeController (MvcLoggingAndExceptionHandling).
+2025-02-26 23:53:49.184 +05:30 [INF] Executing ViewResult, running view Index.
+2025-02-26 23:53:49.360 +05:30 [INF] Executed ViewResult - view Index executed in 187.3733ms.
+2025-02-26 23:53:49.366 +05:30 [INF] Executed action MvcLoggingAndExceptionHandling.Controllers.HomeController.Index (MvcLoggingAndExceptionHandling) in 212.0917ms
+2025-02-26 23:53:49.371 +05:30 [INF] Executed endpoint 'MvcLoggingAndExceptionHandling.Controllers.HomeController.Index (MvcLoggingAndExceptionHandling)'
+2025-02-26 23:53:49.385 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7294/ - 200 null text/html; charset=utf-8 761.767ms
+2025-02-26 23:53:49.389 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7294/MvcLoggingAndExceptionHandling.styles.css?v=T48qPam3fEjV3TmAV0w7qV3RH8XpgPMN0WcoqWgV2nE - null null
+2025-02-26 23:53:49.399 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7294/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2025-02-26 23:53:49.389 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7294/lib/jquery/dist/jquery.min.js - null null
+2025-02-26 23:53:49.389 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7294/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-26 23:53:49.389 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7294/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2025-02-26 23:53:49.389 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7294/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2025-02-26 23:53:49.438 +05:30 [INF] The file /MvcLoggingAndExceptionHandling.styles.css was not modified
+2025-02-26 23:53:49.438 +05:30 [INF] The file /js/site.js was not modified
+2025-02-26 23:53:49.438 +05:30 [INF] The file /lib/jquery/dist/jquery.min.js was not modified
+2025-02-26 23:53:49.441 +05:30 [INF] The file /lib/bootstrap/dist/js/bootstrap.bundle.min.js was not modified
+2025-02-26 23:53:49.459 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7294/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 304 null text/javascript 70.1412ms
+2025-02-26 23:53:49.449 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7294/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 304 null text/javascript 59.6637ms
+2025-02-26 23:53:49.450 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7294/lib/jquery/dist/jquery.min.js - 304 null text/javascript 61.1541ms
+2025-02-26 23:53:49.446 +05:30 [INF] The file /lib/bootstrap/dist/css/bootstrap.min.css was not modified
+2025-02-26 23:53:49.412 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7294/_vs/browserLink - null null
+2025-02-26 23:53:49.427 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7294/css/site.css?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0 - null null
+2025-02-26 23:53:49.448 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7294/MvcLoggingAndExceptionHandling.styles.css?v=T48qPam3fEjV3TmAV0w7qV3RH8XpgPMN0WcoqWgV2nE - 304 null text/css 59.6439ms
+2025-02-26 23:53:49.462 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7294/_framework/aspnetcore-browser-refresh.js - 200 13796 application/javascript; charset=utf-8 75.5014ms
+2025-02-26 23:53:49.479 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7294/lib/bootstrap/dist/css/bootstrap.min.css - 304 null text/css 90.5185ms
+2025-02-26 23:53:49.497 +05:30 [INF] The file /css/site.css was not modified
+2025-02-26 23:53:49.555 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7294/css/site.css?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0 - 304 null text/css 127.2644ms
+2025-02-26 23:53:49.625 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7294/_vs/browserLink - 200 null text/javascript; charset=UTF-8 217.4841ms
+2025-02-26 23:53:53.846 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7294/Home/Privacy - null null
+2025-02-26 23:53:53.863 +05:30 [INF] Executing endpoint 'MvcLoggingAndExceptionHandling.Controllers.HomeController.Privacy (MvcLoggingAndExceptionHandling)'
+2025-02-26 23:53:53.869 +05:30 [INF] Route matched with {action = "Privacy", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Privacy() on controller MvcLoggingAndExceptionHandling.Controllers.HomeController (MvcLoggingAndExceptionHandling).
+2025-02-26 23:53:53.873 +05:30 [INF] Executing ViewResult, running view Privacy.
+2025-02-26 23:53:53.881 +05:30 [INF] Executed ViewResult - view Privacy executed in 9.6991ms.
+2025-02-26 23:53:53.885 +05:30 [INF] Executed action MvcLoggingAndExceptionHandling.Controllers.HomeController.Privacy (MvcLoggingAndExceptionHandling) in 13.0986ms
+2025-02-26 23:53:53.887 +05:30 [INF] Executed endpoint 'MvcLoggingAndExceptionHandling.Controllers.HomeController.Privacy (MvcLoggingAndExceptionHandling)'
+2025-02-26 23:53:53.889 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7294/Home/Privacy - 200 null text/html; charset=utf-8 43.5787ms
+2025-02-26 23:53:53.918 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7294/_vs/browserLink - null null
+2025-02-26 23:53:53.919 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7294/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-26 23:53:53.941 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7294/_framework/aspnetcore-browser-refresh.js - 200 13796 application/javascript; charset=utf-8 22.2369ms
+2025-02-26 23:53:53.961 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7294/_vs/browserLink - 200 null text/javascript; charset=UTF-8 42.9356ms
+2025-02-26 23:53:57.338 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7294/Home/error - null null
+2025-02-26 23:53:57.349 +05:30 [INF] Executing endpoint 'MvcLoggingAndExceptionHandling.Controllers.HomeController.Error (MvcLoggingAndExceptionHandling)'
+2025-02-26 23:53:57.355 +05:30 [INF] Route matched with {action = "Error", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Error() on controller MvcLoggingAndExceptionHandling.Controllers.HomeController (MvcLoggingAndExceptionHandling).
+2025-02-26 23:54:00.394 +05:30 [INF] Executed action MvcLoggingAndExceptionHandling.Controllers.HomeController.Error (MvcLoggingAndExceptionHandling) in 3032.625ms
+2025-02-26 23:54:00.399 +05:30 [INF] Executed endpoint 'MvcLoggingAndExceptionHandling.Controllers.HomeController.Error (MvcLoggingAndExceptionHandling)'
+2025-02-26 23:54:01.973 +05:30 [ERR] An unhandled exception has occurred.
+System.Exception: Test exception
+   at MvcLoggingAndExceptionHandling.Controllers.HomeController.Error() in C:\Users\Ruchila\source\repos\WebAPI\MvcLoggingAndExceptionHandling\Controllers\HomeController.cs:line 33
+   at lambda_method24(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at MvcLoggingAndExceptionHandling.Middleware.ExceptionHandlingMiddleware.InvokeAsync(HttpContext context) in C:\Users\Ruchila\source\repos\WebAPI\MvcLoggingAndExceptionHandling\Middleware\ExceptionHandlingMiddleware.cs:line 23
+2025-02-26 23:54:02.096 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7294/Home/error - 500 null null 4757.7908ms

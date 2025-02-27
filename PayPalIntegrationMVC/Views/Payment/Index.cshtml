@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "PayPal Payment";
+}
+
+<h1>PayPal Payment</h1>
+<form id="paymentForm">
+    <label for="amount">Amount:</label>
+    <input type="number" id="amount" name="amount" step="0.01" required />
+    <label for="currency">Currency:</label>
+    <input type="text" id="currency" name="currency" value="USD" required />
+    <button type="submit">Pay with PayPal</button>
+</form>
+
+<script src="https://www.paypal.com/sdk/js?client-id=YOUR_PAYPAL_CLIENT_ID"></script>
+<script>
+    document.getElementById('paymentForm').addEventListener('submit', function (event) {
+        event.preventDefault();
+        const amount = document.getElementById('amount').value;
+        const currency = document.getElementById('currency').value;
+
+        fetch('/Payment/CreateOrder', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ amount, currency })
+        })
+        .then(response => response.json())
+        .then(data => {
+            paypal.Buttons({
+                createOrder: function (data, actions) {
+                    return data.orderId;
+                },
+                onApprove: function (data, actions) {
+                    return fetch(`/Payment/CapturePayment?orderId=${data.orderID}`, {
+                        method: 'POST'
+                    })
+                    .then(response => response.json())
+                    .then(details => {
+                        alert('Transaction completed by ' + details.payer.name.given_name);
+                        window.location.href = '/Payment/Success';
+                    });
+                }
+            }).render('#paymentForm');
+        });
+    });
+</script>

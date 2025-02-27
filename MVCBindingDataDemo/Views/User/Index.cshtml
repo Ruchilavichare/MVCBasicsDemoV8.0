@@ -1,0 +1,32 @@
+﻿@model List<MVCBindingDataDemo.Models.User>
+
+<h2>Users</h2>
+
+<form method="get" asp-action="Index">
+    <div class="form-group">
+        <input type="text" name="search" class="form-control" placeholder="Search by name or email" />
+        <input type="submit" value="Search" class="btn btn-primary" />
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Age</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.UserId</td>
+                <td>@user.Name</td>
+                <td>@user.Email</td>
+                <td>@user.Age</td>
+            </tr>
+        }
+    </tbody>
+</table>

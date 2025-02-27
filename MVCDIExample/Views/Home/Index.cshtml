@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>@ViewData["Greeting"]</p>
+</div>
+
+<!-- Optional: Direct Service Injection -->
+@using MVCDIExample.Services
+@inject IGreetingService GreetingService
+
+<div class="mt-4">
+    <h3>Direct View Injection</h3>
+    <p>@GreetingService.GetGreeting("View User")</p>
+</div>

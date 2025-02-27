@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "N4niRnR+VQ0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\PayPalIntegrationMVC\\PayPalIntegrationMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ruchila\\.nuget\\packages\\paypalcheckoutsdk\\1.0.4\\paypalcheckoutsdk.1.0.4.nupkg.sha512",
+    "C:\\Users\\Ruchila\\.nuget\\packages\\paypalhttp\\1.0.1\\paypalhttp.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
