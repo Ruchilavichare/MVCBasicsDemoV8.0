@@ -1,54 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\VersioningDemo\\",
+  "WorkspaceRootPath": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\VersioningDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5F1515E-7067-4FE2-9B22-084D98774607}|..\\MVCBindingDataDemo\\MVCBindingDataDemo.csproj|c:\\users\\ruchila\\source\\repos\\webapi\\mvcbindingdatademo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3AEC6F6-DD8A-4E9D-A1C1-3128F140E3DE}|..\\MvcCachingApp\\MvcCachingApp.csproj|c:\\users\\ruchila\\source\\repos\\mvcbasicsdemov8.0\\mvccachingapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5F1515E-7067-4FE2-9B22-084D98774607}|..\\MVCBindingDataDemo\\MVCBindingDataDemo.csproj|c:\\users\\ruchila\\source\\repos\\webapi\\mvcbindingdatademo\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C3AEC6F6-DD8A-4E9D-A1C1-3128F140E3DE}|..\\MvcCachingApp\\MvcCachingApp.csproj|c:\\users\\ruchila\\source\\repos\\mvcbasicsdemov8.0\\mvccachingapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5F1515E-7067-4FE2-9B22-084D98774607}|..\\MVCBindingDataDemo\\MVCBindingDataDemo.csproj|c:\\users\\ruchila\\source\\repos\\webapi\\mvcbindingdatademo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3AEC6F6-DD8A-4E9D-A1C1-3128F140E3DE}|..\\MvcCachingApp\\MvcCachingApp.csproj|c:\\users\\ruchila\\source\\repos\\mvcbasicsdemov8.0\\mvccachingapp\\bundleconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5F1515E-7067-4FE2-9B22-084D98774607}|..\\MVCBindingDataDemo\\MVCBindingDataDemo.csproj|c:\\users\\ruchila\\source\\repos\\webapi\\mvcbindingdatademo\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C3AEC6F6-DD8A-4E9D-A1C1-3128F140E3DE}|..\\MvcCachingApp\\MvcCachingApp.csproj|c:\\users\\ruchila\\source\\repos\\mvcbasicsdemov8.0\\mvccachingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5F1515E-7067-4FE2-9B22-084D98774607}|..\\MVCBindingDataDemo\\MVCBindingDataDemo.csproj|c:\\users\\ruchila\\source\\repos\\webapi\\mvcbindingdatademo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3AEC6F6-DD8A-4E9D-A1C1-3128F140E3DE}|..\\MvcCachingApp\\MvcCachingApp.csproj|c:\\users\\ruchila\\source\\repos\\mvcbasicsdemov8.0\\mvccachingapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{201614B0-5B6D-4FED-AE1F-2C8963EC4238}|..\\FormValidationDemo\\FormValidationDemo.csproj|c:\\users\\ruchila\\source\\repos\\webapi\\formvalidationdemo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{201614B0-5B6D-4FED-AE1F-2C8963EC4238}|..\\FormValidationDemo\\FormValidationDemo.csproj|c:\\users\\ruchila\\source\\repos\\mvcbasicsdemov8.0\\formvalidationdemo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{932CD781-AEA4-4B9C-A2F1-FDF84F4EE24A}|..\\PayPalIntegrationMVC\\PayPalIntegrationMVC.csproj|c:\\users\\ruchila\\source\\repos\\webapi\\paypalintegrationmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E6D861E-0DBE-4F20-8010-A5EE56143DD9}|..\\SecureMvcApp\\SecureMvcApp.csproj|c:\\users\\ruchila\\source\\repos\\mvcbasicsdemov8.0\\securemvcapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AB5852D-6BA0-4799-B78C-57FAA77DCB72}|..\\MvcLoggingAndExceptionHandling\\MvcLoggingAndExceptionHandling.csproj|c:\\users\\ruchila\\source\\repos\\webapi\\mvcloggingandexceptionhandling\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E6D861E-0DBE-4F20-8010-A5EE56143DD9}|..\\SecureMvcApp\\SecureMvcApp.csproj|c:\\users\\ruchila\\source\\repos\\mvcbasicsdemov8.0\\securemvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AB5852D-6BA0-4799-B78C-57FAA77DCB72}|..\\MvcLoggingAndExceptionHandling\\MvcLoggingAndExceptionHandling.csproj|c:\\users\\ruchila\\source\\repos\\webapi\\mvcloggingandexceptionhandling\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E6D861E-0DBE-4F20-8010-A5EE56143DD9}|..\\SecureMvcApp\\SecureMvcApp.csproj|c:\\users\\ruchila\\source\\repos\\mvcbasicsdemov8.0\\securemvcapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AB5852D-6BA0-4799-B78C-57FAA77DCB72}|..\\MvcLoggingAndExceptionHandling\\MvcLoggingAndExceptionHandling.csproj|c:\\users\\ruchila\\source\\repos\\webapi\\mvcloggingandexceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E6D861E-0DBE-4F20-8010-A5EE56143DD9}|..\\SecureMvcApp\\SecureMvcApp.csproj|c:\\users\\ruchila\\source\\repos\\mvcbasicsdemov8.0\\securemvcapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AB5852D-6BA0-4799-B78C-57FAA77DCB72}|..\\MvcLoggingAndExceptionHandling\\MvcLoggingAndExceptionHandling.csproj|c:\\users\\ruchila\\source\\repos\\webapi\\mvcloggingandexceptionhandling\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7E6D861E-0DBE-4F20-8010-A5EE56143DD9}|..\\SecureMvcApp\\SecureMvcApp.csproj|c:\\users\\ruchila\\source\\repos\\mvcbasicsdemov8.0\\securemvcapp\\views\\userprofile\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AB5852D-6BA0-4799-B78C-57FAA77DCB72}|..\\MvcLoggingAndExceptionHandling\\MvcLoggingAndExceptionHandling.csproj|c:\\users\\ruchila\\source\\repos\\webapi\\mvcloggingandexceptionhandling\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7E6D861E-0DBE-4F20-8010-A5EE56143DD9}|..\\SecureMvcApp\\SecureMvcApp.csproj|c:\\users\\ruchila\\source\\repos\\mvcbasicsdemov8.0\\securemvcapp\\views\\userprofile\\profileupdated.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D2C4F77-275F-42C9-B0CB-E8917D751E1E}|..\\MvcLayoutAndPartialViews\\MvcLayoutAndPartialViews.csproj|c:\\users\\ruchila\\source\\repos\\webapi\\mvclayoutandpartialviews\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7E6D861E-0DBE-4F20-8010-A5EE56143DD9}|..\\SecureMvcApp\\SecureMvcApp.csproj|c:\\users\\ruchila\\source\\repos\\mvcbasicsdemov8.0\\securemvcapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D2C4F77-275F-42C9-B0CB-E8917D751E1E}|..\\MvcLayoutAndPartialViews\\MvcLayoutAndPartialViews.csproj|c:\\users\\ruchila\\source\\repos\\webapi\\mvclayoutandpartialviews\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E6D861E-0DBE-4F20-8010-A5EE56143DD9}|..\\SecureMvcApp\\SecureMvcApp.csproj|c:\\users\\ruchila\\source\\repos\\mvcbasicsdemov8.0\\securemvcapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D2C4F77-275F-42C9-B0CB-E8917D751E1E}|..\\MvcLayoutAndPartialViews\\MvcLayoutAndPartialViews.csproj|c:\\users\\ruchila\\source\\repos\\webapi\\mvclayoutandpartialviews\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7E6D861E-0DBE-4F20-8010-A5EE56143DD9}|..\\SecureMvcApp\\SecureMvcApp.csproj|c:\\users\\ruchila\\source\\repos\\mvcbasicsdemov8.0\\securemvcapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D2C4F77-275F-42C9-B0CB-E8917D751E1E}|..\\MvcLayoutAndPartialViews\\MvcLayoutAndPartialViews.csproj|c:\\users\\ruchila\\source\\repos\\webapi\\mvclayoutandpartialviews\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7E6D861E-0DBE-4F20-8010-A5EE56143DD9}|..\\SecureMvcApp\\SecureMvcApp.csproj|c:\\users\\ruchila\\source\\repos\\mvcbasicsdemov8.0\\securemvcapp\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6D861E-0DBE-4F20-8010-A5EE56143DD9}|..\\SecureMvcApp\\SecureMvcApp.csproj|c:\\users\\ruchila\\source\\repos\\mvcbasicsdemov8.0\\securemvcapp\\controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6D861E-0DBE-4F20-8010-A5EE56143DD9}|..\\SecureMvcApp\\SecureMvcApp.csproj|c:\\users\\ruchila\\source\\repos\\mvcbasicsdemov8.0\\securemvcapp\\models\\userprofilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6D861E-0DBE-4F20-8010-A5EE56143DD9}|..\\SecureMvcApp\\SecureMvcApp.csproj|c:\\users\\ruchila\\source\\repos\\mvcbasicsdemov8.0\\securemvcapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6D861E-0DBE-4F20-8010-A5EE56143DD9}|..\\SecureMvcApp\\SecureMvcApp.csproj|c:\\users\\ruchila\\source\\repos\\mvcbasicsdemov8.0\\securemvcapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,196 +74,263 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\MVCBindingDataDemo\\Program.cs",
-              "RelativeDocumentMoniker": "..\\MVCBindingDataDemo\\Program.cs",
-              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\MVCBindingDataDemo\\Program.cs",
-              "RelativeToolTip": "..\\MVCBindingDataDemo\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T19:09:09.029Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\MVCBindingDataDemo\\Views\\User\\Index.cshtml",
-              "RelativeDocumentMoniker": "..\\MVCBindingDataDemo\\Views\\User\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\MVCBindingDataDemo\\Views\\User\\Index.cshtml",
-              "RelativeToolTip": "..\\MVCBindingDataDemo\\Views\\User\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\MvcCachingApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\MvcCachingApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\MvcCachingApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\MvcCachingApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T19:08:18.149Z"
+              "WhenOpened": "2025-02-28T18:27:48.309Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\MVCBindingDataDemo\\Views\\User\\Create.cshtml",
-              "RelativeDocumentMoniker": "..\\MVCBindingDataDemo\\Views\\User\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\MVCBindingDataDemo\\Views\\User\\Create.cshtml",
-              "RelativeToolTip": "..\\MVCBindingDataDemo\\Views\\User\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T19:07:26.278Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\MVCBindingDataDemo\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "..\\MVCBindingDataDemo\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\MVCBindingDataDemo\\Controllers\\UserController.cs",
-              "RelativeToolTip": "..\\MVCBindingDataDemo\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T19:06:13.905Z",
+              "DocumentIndex": 2,
+              "Title": "bundleconfig.json",
+              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\MvcCachingApp\\bundleconfig.json",
+              "RelativeDocumentMoniker": "..\\MvcCachingApp\\bundleconfig.json",
+              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\MvcCachingApp\\bundleconfig.json",
+              "RelativeToolTip": "..\\MvcCachingApp\\bundleconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T18:27:25.196Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\MVCBindingDataDemo\\Models\\User.cs",
-              "RelativeDocumentMoniker": "..\\MVCBindingDataDemo\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\MVCBindingDataDemo\\Models\\User.cs",
-              "RelativeToolTip": "..\\MVCBindingDataDemo\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\MvcCachingApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\MvcCachingApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\MvcCachingApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\MvcCachingApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T14:52:11.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\MvcCachingApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\MvcCachingApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\MvcCachingApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\MvcCachingApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwAkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T19:05:33.652Z"
+              "WhenOpened": "2025-02-28T14:50:24.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\MvcCachingApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MvcCachingApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\MvcCachingApp\\Program.cs",
+              "RelativeToolTip": "..\\MvcCachingApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:49:47.518Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\FormValidationDemo\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "..\\FormValidationDemo\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\FormValidationDemo\\Controllers\\UserController.cs",
-              "RelativeToolTip": "..\\FormValidationDemo\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\FormValidationDemo\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\FormValidationDemo\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\FormValidationDemo\\Models\\User.cs",
+              "RelativeToolTip": "..\\FormValidationDemo\\Models\\User.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T18:55:12.951Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\PayPalIntegrationMVC\\Program.cs",
-              "RelativeDocumentMoniker": "..\\PayPalIntegrationMVC\\Program.cs",
-              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\PayPalIntegrationMVC\\Program.cs",
-              "RelativeToolTip": "..\\PayPalIntegrationMVC\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T18:32:54.739Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\MvcLoggingAndExceptionHandling\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "..\\MvcLoggingAndExceptionHandling\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\MvcLoggingAndExceptionHandling\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "..\\MvcLoggingAndExceptionHandling\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T18:03:09.835Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\MvcLoggingAndExceptionHandling\\Program.cs",
-              "RelativeDocumentMoniker": "..\\MvcLoggingAndExceptionHandling\\Program.cs",
-              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\MvcLoggingAndExceptionHandling\\Program.cs",
-              "RelativeToolTip": "..\\MvcLoggingAndExceptionHandling\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T17:57:43.361Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ExceptionHandlingMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\MvcLoggingAndExceptionHandling\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "RelativeDocumentMoniker": "..\\MvcLoggingAndExceptionHandling\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\MvcLoggingAndExceptionHandling\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "RelativeToolTip": "..\\MvcLoggingAndExceptionHandling\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAcwBQAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T17:56:52.85Z"
+              "WhenOpened": "2025-02-28T14:43:53.853Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\MvcLoggingAndExceptionHandling\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "..\\MvcLoggingAndExceptionHandling\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\MvcLoggingAndExceptionHandling\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "..\\MvcLoggingAndExceptionHandling\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAcwCAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T17:55:38.533Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\MvcLoggingAndExceptionHandling\\appsettings.json",
-              "RelativeDocumentMoniker": "..\\MvcLoggingAndExceptionHandling\\appsettings.json",
-              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\MvcLoggingAndExceptionHandling\\appsettings.json",
-              "RelativeToolTip": "..\\MvcLoggingAndExceptionHandling\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-26T17:55:03.35Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\MvcLayoutAndPartialViews\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "..\\MvcLayoutAndPartialViews\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\MvcLayoutAndPartialViews\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "..\\MvcLayoutAndPartialViews\\Views\\Home\\Privacy.cshtml",
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\SecureMvcApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "..\\SecureMvcApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\SecureMvcApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "..\\SecureMvcApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T17:42:46.892Z"
+              "WhenOpened": "2025-02-28T14:33:24.356Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\MvcLayoutAndPartialViews\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "..\\MvcLayoutAndPartialViews\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\MvcLayoutAndPartialViews\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "..\\MvcLayoutAndPartialViews\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T17:42:11.892Z"
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\SecureMvcApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "..\\SecureMvcApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\SecureMvcApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "..\\SecureMvcApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T14:33:22.996Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\MvcLayoutAndPartialViews\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "..\\MvcLayoutAndPartialViews\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\MvcLayoutAndPartialViews\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "..\\MvcLayoutAndPartialViews\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\SecureMvcApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "..\\SecureMvcApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\SecureMvcApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "..\\SecureMvcApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-25T18:56:03.162Z"
+              "WhenOpened": "2025-02-28T14:33:14.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\SecureMvcApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "..\\SecureMvcApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\SecureMvcApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "..\\SecureMvcApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T14:32:01.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\SecureMvcApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\SecureMvcApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\SecureMvcApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\SecureMvcApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T14:24:08.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProfileUpdated.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\SecureMvcApp\\Views\\UserProfile\\ProfileUpdated.cshtml",
+              "RelativeDocumentMoniker": "..\\SecureMvcApp\\Views\\UserProfile\\ProfileUpdated.cshtml",
+              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\SecureMvcApp\\Views\\UserProfile\\ProfileUpdated.cshtml",
+              "RelativeToolTip": "..\\SecureMvcApp\\Views\\UserProfile\\ProfileUpdated.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T14:23:47.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\SecureMvcApp\\Views\\UserProfile\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\SecureMvcApp\\Views\\UserProfile\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\SecureMvcApp\\Views\\UserProfile\\Edit.cshtml",
+              "RelativeToolTip": "..\\SecureMvcApp\\Views\\UserProfile\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T14:23:24.695Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\MvcLayoutAndPartialViews\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "..\\MvcLayoutAndPartialViews\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\WebAPI\\MvcLayoutAndPartialViews\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "..\\MvcLayoutAndPartialViews\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\SecureMvcApp\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\SecureMvcApp\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\SecureMvcApp\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "..\\SecureMvcApp\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T17:10:31.055Z"
+              "WhenOpened": "2025-02-28T14:22:51.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\SecureMvcApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "..\\SecureMvcApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\SecureMvcApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "..\\SecureMvcApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T14:22:45.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\SecureMvcApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\SecureMvcApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\SecureMvcApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\SecureMvcApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T14:22:32.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\SecureMvcApp\\Controllers\\UserProfileController.cs",
+              "RelativeDocumentMoniker": "..\\SecureMvcApp\\Controllers\\UserProfileController.cs",
+              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\SecureMvcApp\\Controllers\\UserProfileController.cs",
+              "RelativeToolTip": "..\\SecureMvcApp\\Controllers\\UserProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:22:05.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserProfileModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\SecureMvcApp\\Models\\UserProfileModel.cs",
+              "RelativeDocumentMoniker": "..\\SecureMvcApp\\Models\\UserProfileModel.cs",
+              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\SecureMvcApp\\Models\\UserProfileModel.cs",
+              "RelativeToolTip": "..\\SecureMvcApp\\Models\\UserProfileModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:21:39.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\SecureMvcApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "..\\SecureMvcApp\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\SecureMvcApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "..\\SecureMvcApp\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:20:28.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\SecureMvcApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\SecureMvcApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\MVCBasicsDemoV8.0\\SecureMvcApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\SecureMvcApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:19:35.364Z",
+              "EditorCaption": ""
             }
           ]
         }
